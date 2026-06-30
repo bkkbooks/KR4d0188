@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4d0188/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部四
+  hash: sha256:feea65c2c5f7b24c3923896ddfefeaca5f2adb12a64602844adb735e91a1782a
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4d0188_WYG_000-1a, image: WYG1136/WYG1136-0283a.png}
+body:
+  text: 少陽集目録别集類三宋卷一上書上卷二上書中卷三上書下卷四書贊卷五詩詞卷六附録臣等謹案少陽集五卷附録一卷宋太學生陳東撰東字少陽鎮江丹陽人事蹟詳宋史本傳其集刻於元大德中者曰盡忠録凡八卷編次頗嫌錯雜刋於國朝康熙中者曰少陽文集凡十卷前五卷皆東遺文後五卷則本傳行狀及他書論贊今存遺文五卷附録史傳一篇行狀一篇及欽宗省敕一篇髙宗諭㫖七篇為第六卷他皆汰之東以諸生憤切時事伏闕上書糾蔡京童貫諸人可謂直矣第於時國步方危而煽動十餘萬人震警庭陛至於壞院鼓臠中涓迹類亂民亦乖大體南宋末太學之橫至於進退大臣莫可裁制其胚胎實兆於此後應詔再出卒以此為黃潛善所搆雖小人隂險工於擠排亦東等有以致之矣第以心在國家言皆剴切且能批摘權臣冒萬死以伸公憤故南宋以來儒者以忠義豫之而遺文亦至今傳述焉乾隆四十二年三月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:055696c91609fa83d37a33628f133400ba107b6f0f2003ecf0ead84dd7dae8c0
+metadata:
+  title: 少陽集
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:58:05.142305'
+  juan_title: 目録
+  source:
+    repository: kanripo
+    path: KR4d0188/KR4d0188_000.txt
+hash: sha256:9a7e7ae0b07c1f7e9c18f4746b12682e9b539c3db306f6732b1d4c7dc8cefe82
